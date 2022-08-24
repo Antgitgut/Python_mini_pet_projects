@@ -4,6 +4,8 @@ The program works if you have Pyhon version 3.10 or higher.
 
 """
 
+print("Put all '.webp' files in a separate empty folder before enter a link to that folder.\n")
+
 import os
 import sys
 
